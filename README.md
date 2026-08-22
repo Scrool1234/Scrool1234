@@ -23,6 +23,29 @@
 
 ---
 
+## About Me
+
+```
+╭──────────────────────────────────────────────╮
+│                                              │
+│  Scrool1234 · Russia · 19 y.o                │
+│                                              │
+│  Building:                                   │
+│   Backend · macOS/Windows · Java/Kotlin      │
+│                                              │
+│  Environment:                                │
+│   macOS · Windows · WSL · IntelliJ IDEA      │
+│   Git · Homebrew                             │
+│                                              │
+│  Learning:                                   │
+│   AI Agents · Spring Boot · Kafka            │
+│   Cloud Architecture · Distributed Systems   │
+│                                              │
+│  Software Engineer                           │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
+
 ## LeetCode
 
 <p align="center">
