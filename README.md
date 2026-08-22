@@ -22,8 +22,13 @@
 </p>
 
 ---
-### LeetCode stats
 
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/scrool1234?theme=wtf&ext=heatmap"
-</div>
+## LeetCode
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/scrool1234?theme=dark&font=Inter&ext=heatmap" 
+       alt="LeetCode Stats" 
+       style="border-radius: 16px; box-shadow: 0 8px 32px rgba(255,215,0,0.15);" />
+</p>
+
+---
