@@ -1,6 +1,6 @@
 
 <div align="center">
-
+  
 ```
 ███████╗███████╗███╗   ██╗████████╗ █████╗ 
 ╚══███╔╝██╔════╝████╗  ██║╚══██╔══╝██╔══██╗
@@ -12,7 +12,7 @@
 ### Java • Spring • SpringBoot • Computer Science
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=A9FEF7&center=true&width=435&lines=Java+Developer;Spring+Boot+Developer;Engineering+simplicity;Write+once%2C+debug+everywhere+...+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=E34A2F&center=true&width=435&lines=Java+Developer;Spring+Boot+Developer;Engineering+simplicity;Write+once%2C+debug+everywhere+...+" alt="Typing SVG" />
 </a>
 
 </div>
@@ -54,15 +54,5 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scrool1234&theme=tokyo-night&hide_border=true&cb=1" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scrool1234&bg_color=0d1117&color=F77B4C&line=FF3D6B&days=40&point=A855F7&area=true&area_color=F77B4C&hide_border=true&radius=8" width="90%" />
 </p>
-
-## LeetCode
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/scrool1234?theme=dark&font=Inter&ext=heatmap" 
-       alt="LeetCode Stats" 
-       style="border-radius: 16px; box-shadow: 0 8px 32px rgba(255,215,0,0.15);" />
-</p>
-
----
