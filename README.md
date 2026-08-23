@@ -9,7 +9,7 @@
 ███████╗███████╗██║ ╚████║   ██║   ██║  ██║
 ╚══════╝╚══════╝╚═╝  ╚═══╝   ╚═╝   ╚═╝  ╚═╝
 ```
-### Java • Spring • SpringBoot • Computer Science
+### Java • Backend • Spring • Computer Science
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=E34A2F&center=true&width=435&lines=Java+Developer;Spring+Boot+Developer;Engineering+simplicity;Write+once%2C+debug+everywhere+...+" alt="Typing SVG" />
