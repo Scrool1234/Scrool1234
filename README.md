@@ -25,29 +25,44 @@
 
 ## About Me
 
-<div align="center">
+<table align="center">
   
-```
-╭──────────────────────────────────────────────╮
-│                                              │
-│  Scrool1234 · Russia · 19 y.o                │
-│                                              │
-│  Building:                                   │
-│   Backend · macOS/Windows · Java/Kotlin      │
-│                                              │
-│  Environment:                                │
-│   macOS · Windows · WSL · IntelliJ IDEA      │
-│   Git · Homebrew                             │
-│                                              │
-│  Learning:                                   │
-│   AI Agents · Spring Boot · Kafka            │
-│   Cloud Architecture · Distributed Systems   │
-│                                              │
-│  Software Engineer                           │
-│                                              │
-╰──────────────────────────────────────────────╯
-```
-</div>
+<tr>
+<td width="33%" valign="top">
+
+### 🚀 Building
+
+- Backend applications
+- Distributed systems
+- Cloud-native services
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛠️ Environment
+
+- macOS / Windows / WSL
+- IntelliJ IDEA
+- Git
+- Homebrew
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📚 Learning
+
+- AI Agents
+- Spring
+- Kafka
+- Cloud Architecture
+- Distributed Systems
+
+</td>
+</tr>
+
+</table>
 
 ---
 
