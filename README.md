@@ -63,11 +63,3 @@
 </tr>
 
 </table>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=scrool1234&bg_color=0d1117&color=F77B4C&line=FF3D6B&days=40&point=A855F7&area=true&area_color=F77B4C&hide_border=true&radius=8" width="90%" />
-</p>
